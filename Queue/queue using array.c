@@ -59,5 +59,5 @@ int main()
     Display(q);
     printf("%d ",dequeue(&q));
 
-return 0;
+    return 0;
 }
